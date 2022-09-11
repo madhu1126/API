@@ -2,16 +2,16 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-02T16:27:02 IST" name="Default suite" finished-at="2022-03-02T16:27:05 IST" duration-ms="2314">
+  <suite started-at="2022-03-10T16:32:21 GMT+05:30" name="Default suite" finished-at="2022-03-10T16:32:26 GMT+05:30" duration-ms="4611">
     <groups>
     </groups>
-    <test started-at="2022-03-02T16:27:02 IST" name="Default test" finished-at="2022-03-02T16:27:05 IST" duration-ms="2314">
-      <class name="userApiTest.ComplexJsonVerfication">
-        <test-method signature="nestedJsonVerification()[pri:0, instance:userApiTest.ComplexJsonVerfication@1b1426f4]" started-at="2022-03-02T16:27:02 IST" name="nestedJsonVerification" finished-at="2022-03-02T16:27:05 IST" duration-ms="2280" status="PASS">
+    <test started-at="2022-03-10T16:32:21 GMT+05:30" name="Default test" finished-at="2022-03-10T16:32:26 GMT+05:30" duration-ms="4611">
+      <class name="restAPIsAutomation.GetApiAutomate">
+        <test-method signature="getRequestAutomation1()[pri:0, instance:restAPIsAutomation.GetApiAutomate@759d26fb]" started-at="2022-03-10T16:32:21 GMT+05:30" name="getRequestAutomation1" finished-at="2022-03-10T16:32:26 GMT+05:30" duration-ms="4546" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- nestedJsonVerification -->
-      </class> <!-- userApiTest.ComplexJsonVerfication -->
+        </test-method> <!-- getRequestAutomation1 -->
+      </class> <!-- restAPIsAutomation.GetApiAutomate -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
